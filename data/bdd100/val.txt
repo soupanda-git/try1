@@ -1,0 +1,3 @@
+./data/bdd100/images/0aa4bc86-1e2d24a2.jpg
+./data/bdd100/images/98378ac5-89b2b440.jpg
+./data/bdd100/images/99302f3b-6d8ea951.jpg

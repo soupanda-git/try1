@@ -1,0 +1,6 @@
+classes=3
+train=data/bdd100/train.txt
+valid=data/bdd100/val.txt
+names=config/coco.names
+backup=backup/
+
